@@ -1,0 +1,73 @@
+/************************ GOOGLE 1998 ************************/
+/* GENERAL */
+
+body {
+    margin: 8px;
+}
+
+
+li{
+    list-style: none;
+}
+
+div{
+    text-align: center;
+}
+
+/************************* CLASSES ***************************/
+
+
+.section1{
+    width: 100%;
+    margin-top: 150px;
+}
+/* logo */
+
+
+.search {
+    width: 15%;
+    margin-left: auto;
+}
+
+.section2{
+    background-color: #EEEEEE;
+    margin-bottom: 8px;
+}
+
+
+.container {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.box1{
+    background-color: #7EE5DA;
+    width: 40%;
+    float: left;
+    margin-right: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box2{
+    background-color: #3db9ad;
+    width: 18%;
+    float: left;
+    margin-right: 13px;
+    padding-bottom: 2px;
+}
+
+.box3{
+    background-color: #4caba0 ;
+    width: 40%;
+    float: left;
+    font-size: small;
+}
+
+.section3 {
+    font-size: small;
+    padding-top: 70px;
+}
+
